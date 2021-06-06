@@ -10,7 +10,7 @@ The program uses Genetic Algorithm with Crossover Mutation to generate the best 
   2. Multiple slots at the same time
   3. 2 continuous slots per student
 
-TimeTable.java contains the code for creation of a chromosome. An array (generation) of these is stored in Population.java which performs mutations and computes Fitness. The runner program in GeneticAlgo.java which uses both files.
+TimeTable.java contains the code for creation of a chromosome. An array (generation) of these is stored in Population.java which performs mutations and computes Fitness. The runner program is GeneticAlgo.java which uses both files.
 
 # How to Run?
 Download the files. Use any Java IDE and provide the input files for the program. Run the program and it will generate the best possible combination.
